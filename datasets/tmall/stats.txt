@@ -1,2 +1,0 @@
-num_categorys	num_items	max_len
-584	15220	50
